@@ -59,7 +59,7 @@ At the border crossings Hrádek nad Nisou (route Zittau – Liberec), Varnsdorf 
 
 ### Austria
 
-From Austria, cross-border trains of ÖBB can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ÖBB is required. Cross-border trains from RegioJet cannot be used with FIP. Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
+From Austria, cross-border trains of ÖBB can be used on various routes. An additional FIP 50 Ticket or FIP Coupon from ÖBB is required. FIP passes cannot be used on RegioJet cross-border trains in either country (CZ/AT). Long-distance connections exist from Linz to Prague and Railjets from Vienna to Prague via Brno.
 
 ### Poland
 
